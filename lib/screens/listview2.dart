@@ -13,8 +13,7 @@ class Listview2Screen extends StatelessWidget {
                 title: const Center(
           child:  Text('Listview2')
           ),
-          elevation: 0,
-          backgroundColor: Colors.indigo,
+         
         ),
       body: Center(
          child: ListView.separated(
