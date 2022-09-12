@@ -22,6 +22,7 @@ class Apptheme{
         backgroundColor: primary,
         elevation: 5
       ),
+      
     elevatedButtonTheme: ElevatedButtonThemeData(
       style: ElevatedButton.styleFrom(
         primary: Colors.indigo,
