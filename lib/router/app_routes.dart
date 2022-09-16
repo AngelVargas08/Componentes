@@ -16,7 +16,8 @@ class AppRoutes{
     MenuOptions(route: 'alertscreen', name: 'Alert Screen', screen: const AlertScreen(), icon: Icons.crisis_alert_sharp),
     MenuOptions(route: 'avatartscreen', name: 'Avatar Screen', screen: const AvatarScreen(), icon: Icons.supervised_user_circle_rounded),
     MenuOptions(route: 'animatedscreen', name: 'Animated Screen', screen: const AnimatedScreen(), icon: Icons.animation_outlined),
-     MenuOptions(route: 'inputscreen', name: 'Input Screen', screen: const InputScreen(), icon: Icons.format_align_justify),
+    MenuOptions(route: 'inputscreen', name: 'Input Screen', screen: const InputScreen(), icon: Icons.format_align_justify),
+    MenuOptions(route: 'sliderscreen', name: 'Slider Screen', screen: const SliderScreen(), icon: Icons.slow_motion_video_rounded),
 
   ];
 
