@@ -18,6 +18,7 @@ class AppRoutes{
     MenuOptions(route: 'animatedscreen', name: 'Animated Screen', screen: const AnimatedScreen(), icon: Icons.animation_outlined),
     MenuOptions(route: 'inputscreen', name: 'Input Screen', screen: const InputScreen(), icon: Icons.format_align_justify),
     MenuOptions(route: 'sliderscreen', name: 'Slider Screen', screen: const SliderScreen(), icon: Icons.slow_motion_video_rounded),
+    MenuOptions(route: 'listviewbuilderscreen', name: 'List View & Infinite Scroll', screen: const ListViewBuilderScreen(), icon: Icons.build_circle_sharp),
 
   ];
 
